@@ -14,4 +14,4 @@ A responsive Spotify Web Player UI clone built using HTML and CSS.
 - Font Awesome
 
 ## Live Demo
-https://YOUR_USERNAME.github.io/spotify-ui-clone/
+https://github.com/Dibyanshukk/spotify-ui-clone.git 
